@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+    <book id="1">
+        <title>Locus Bonus</title>
+        <author>Eeva-Maria Viitanen</author>
+        <genre>History</genre>
+        <year>2010</year>
+        <price>20</price>
+        <stock>3</stock>
+    </book>
+    <book id="2">
+        <title>Roman villas in central Italy</title>
+        <author>Annalia Marzano</author>
+        <genre>History</genre>
+        <year>2007</year>
+        <price>100</price>
+        <stock>1</stock>
+    </book>
+    <book id="3">
+        <title>Asezari rurale in Dacia romana</title>
+        <author>Nicolae Gudea</author>
+        <genre>History</genre>
+        <year>2008</year>
+        <price>25</price>
+        <stock>7</stock>
+    </book>
+    <book id="4">
+        <title>Villae, vici, pagi</title>
+        <author>Dumitru Popa</author>
+        <genre>History</genre>
+        <year>2002</year>
+        <price>15</price>
+        <stock>12</stock>
+    </book>
+    <book id="5">
+        <title>Lotr</title>
+        <author>Tolkien</author>
+        <genre>Fantasy</genre>
+        <year>1952</year>
+        <price>123</price>
+        <stock>21</stock>
+    </book>
+    <book id="6">
+        <title>Strainul</title>
+        <author>Albert Camus</author>
+        <genre>Philosophy</genre>
+        <year>1912</year>
+        <price>12</price>
+        <stock>11</stock>
+    </book>
+    <book id="7">
+        <title>Meditations</title>
+        <author>Marcus Aurelius</author>
+        <genre>Philosophy</genre>
+        <year>2013</year>
+        <price>39</price>
+        <stock>14</stock>
+    </book>
+    <book id="8">
+        <title>Metamorphosis</title>
+        <author>Kafka</author>
+        <genre>Philosophy</genre>
+        <year>1900</year>
+        <price>23</price>
+        <stock>19</stock>
+    </book>
+    <book id="9">
+        <title>The Hobbit</title>
+        <author>tolkien</author>
+        <genre>Fantasy</genre>
+        <year>1950</year>
+        <price>22</price>
+        <stock>5</stock>
+    </book>
+</catalog>
